@@ -1,0 +1,27 @@
+CACHE MANIFEST
+# 2016-09-20 v1.0.0
+
+/css/normalize.css
+/css/skeleton.css
+/css/style.css
+/images/compass.svg
+/images/creativity_bg_image.jpg
+/images/deznx-logo.png
+/images/deznx-logo.svg
+/images/facebook.png
+/images/facebook.svg
+/images/favicon.png
+/images/help_bg_image.jpg
+/images/instagram.png
+/images/instagram.svg
+/images/quote_bg_image.jpg
+/images/social-icons.png
+/images/testimonial_bg_image.jpg
+/images/twitter.png
+/images/twitter.svg
+/images/video_bg_image.jpg
+/js/bigSlide.min.js
+/js/deznx.js
+/js/jquery-3.1.0.min.js
+
+https://fonts.googleapis.com/css?family=Muli:300,400
